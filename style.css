@@ -3,20 +3,7 @@
     font-family: Arial;
     border: border-box;
 }
-@media screen and(max-width:600px){
-    .box{
-        width:100px;
-        margin:10px 0;
-    }
-    .nav-logo,.nav0address,.nav-search,.nav-sign,.nav-return,.nav-cart{
-        width:100%;
-        text-algin:center;
-    }
-    img ,.logo,.box-image1,.box-image2,.box-image3{
-        width:100%;
-        height:auto;
-    }
-}
+
 .navbar{
     height: 60px;
     background-color: #0f1111;
@@ -332,6 +319,7 @@ padding-top: 25px;
     padding-top:5px
 }
     
+
 
 
 
