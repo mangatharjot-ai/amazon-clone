@@ -8,10 +8,11 @@
         width:100px;
         margin:10px 0;
     }
-    .header,.footer{
+    .nav-logo,.nav0address,.nav-search,.nav-sign,.nav-return,.nav-cart{
+        width:100%;
         text-algin:center;
     }
-    img{
+    img ,.logo,.box-image1,.box-image2,.box-image3{
         width:100%;
         height:auto;
     }
@@ -331,5 +332,6 @@ padding-top: 25px;
     padding-top:5px
 }
     
+
 
 
